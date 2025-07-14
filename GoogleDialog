@@ -1,11 +1,11 @@
 {
-  "Title": "New Update Available",
-  "versionCode": "55",
-  "versionName": "5.2.0",
-  "updateSize": "10.2 MB",
-  "releaseDate": "Feb 15, 2024",
-  "Msg": "This update includes:\n\n- Performance improvements\n- Bug fixes\n- New feature: Dark Mode\n- Enhanced security features",
-  "downloadLink": "https://download1507.mediafire.com/ktj2f2el6pwgpWN8bGxAeskWosaWuntuGC9K276IFGGGZHiINWnuyvREsRk_4xl1iXJxLs4mStaBU-3E19uSXn9Y4rE3Mj7IQo7MQd4tojJNMxtHtUlqCwon7-in5rpr8b6VjqssgNVuHeo6TX7WXjnQflFCd14FoPS_qyStUfZ0UjrT/irwh6dc9n0njoht/gpt.apk",
+  "title": "New Update Available",
+  "version": "55",
+  "name": "5.2.0",
+  "size": "10.2 MB",
+  "date": "Feb 15, 2024",
+  "description": "This update includes:\n\n- Performance improvements\n- Bug fixes\n- New feature: Dark Mode\n- Enhanced security features",
+  "download": "https://download1507.mediafire.com/ktj2f2el6pwgpWN8bGxAeskWosaWuntuGC9K276IFGGGZHiINWnuyvREsRk_4xl1iXJxLs4mStaBU-3E19uSXn9Y4rE3Mj7IQo7MQd4tojJNMxtHtUlqCwon7-in5rpr8b6VjqssgNVuHeo6TX7WXjnQflFCd14FoPS_qyStUfZ0UjrT/irwh6dc9n0njoht/gpt.apk",
   "Browser link": "https://www.designlabofficial.site/p/download.html",
   "forceUpdate": true,
   "Direct Function": true
